@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609851926 source:d:\programing\c\pirntf\main.c
+	<stdio.h>
+	<stdlib.h>
+
