@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610201860 source:d:\programing\c++\training\switch\main.c
+	<stdio.h>
+	<stdlib.h>
+
